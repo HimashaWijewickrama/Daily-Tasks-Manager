@@ -15,6 +15,7 @@ A simple to-do application for managing tasks with create, read, update, and del
 
 ## Tech Stacks
 
-Laravel 12
-Livewire
-Flux UI 
+* Laravel 12
+* Livewire
+* Flux UI 
+* MySQL (Database)
