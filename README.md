@@ -17,5 +17,6 @@ A simple to-do application for managing tasks with create, read, update, and del
 
 * Laravel 12
 * Livewire
-* Flux UI 
+* Flux UI
+* Tailwindcss
 * MySQL (Database)
