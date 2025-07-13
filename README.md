@@ -1,7 +1,5 @@
 # Daily Tasks Manager 
 
-## About
-
 A simple to-do application for managing tasks with create, read, update, and delete functionalities. 
 
 ## Features
