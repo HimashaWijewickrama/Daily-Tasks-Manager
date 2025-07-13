@@ -20,3 +20,6 @@ A simple to-do application for managing tasks with create, read, update, and del
 * Flux UI
 * Tailwind Css
 * MySQL (Database)
+
+<img width="1907" height="922" alt="image" src="https://github.com/user-attachments/assets/c17317a7-e68e-4659-b28d-cca2f1b38207" />
+
